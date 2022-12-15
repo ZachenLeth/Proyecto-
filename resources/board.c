@@ -1,3 +1,3 @@
-struct boards{
+struct board{
 	
 };
