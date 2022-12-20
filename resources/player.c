@@ -1,3 +1,3 @@
-struct player{
-	
-};
+void players(char playertype){
+	return 0;
+}
